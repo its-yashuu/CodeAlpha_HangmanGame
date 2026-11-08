@@ -54,4 +54,4 @@ CodeAlpha_Hangman/
 
 ## Author
 
-Your Name — CodeAlpha Python Programming Intern
+Yashaswini S — CodeAlpha Python Programming Intern
